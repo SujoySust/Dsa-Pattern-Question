@@ -15,4 +15,4 @@ class Sqart {
 }
 
 const sqart = new Sqart();
-console.log(sqart.binarySearch(8));
+console.log(sqart.binarySearch(2));
